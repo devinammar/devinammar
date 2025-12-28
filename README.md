@@ -1,6 +1,6 @@
 <h1>👋Hello World...</h1>
 
-<h2>Software & Tools:</h2>
+<h2>Tech & Tools:</h2>
 <p align="left">
   <a>
     <img src="https://github.com/devinammar/devinammar/blob/c8468ee5659e9cd3d157c1f67ea2f75f57cbb437/HTML5_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/>
