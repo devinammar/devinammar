@@ -30,6 +30,11 @@
 
 <!--  -->
 
+# CSS3 Animation Demo
+
+This is a CSS3 animation demo:
+
+```html
 <div id="container" style="color:#999; text-transform: uppercase; font-size:36px; font-weight:bold; padding-top:200px; position:fixed; width:100%; bottom:45%; display:block;">
   Make 
   <div id="flip" style="height:50px; overflow:hidden;">
@@ -68,4 +73,5 @@
     100% {margin-top:-270px;}
   }
 </style>
+
 
