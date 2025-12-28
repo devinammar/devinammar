@@ -10,9 +10,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />&nbsp;
     <img src="https://github.com/devinammar/devinammar/blob/fa396abaa8565bbcd5fbdf3470deb6c736398d30/Visual_Studio_Code_1.35_icon.svg.png" alt="c" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devinammar/devinammar/blob/fa396abaa8565bbcd5fbdf3470deb6c736398d30/IntelliJ_IDEA_Icon.svg.png" alt="c" width="40" height="40"/>&nbsp;
-    <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://github.com/devinammar/devinammar/blob/fa396abaa8565bbcd5fbdf3470deb6c736398d30/MySQL.png" alt="c" width="40" height="40"/>&nbsp;
-    </div>
+    <img src="https://github.com/devinammar/devinammar/blob/fa396abaa8565bbcd5fbdf3470deb6c736398d30/MySQL.png" alt="c" width="40" height="40" style="display: flex; justify-content: center; align-items: center;"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </p>
