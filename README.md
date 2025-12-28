@@ -11,6 +11,6 @@
     <img src="https://github.com/devinammar/devinammar/blob/59dafb35f634d88049f7872e4913954b0c65fa81/javascrip.png" alt="c" width="40" height="40"/>
   </a>&nbsp;
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://github.com/devinammar/devinammar/blob/f1200b82d881641bba2c354633a68216e8e0a282/C_Logo.png" alt="c" width="40" height="40"/>
   </a>&nbsp;
 </p>
