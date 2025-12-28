@@ -25,4 +25,5 @@
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devinammar/devinammar/blob/fa396abaa8565bbcd5fbdf3470deb6c736398d30/MySQL.png" alt="c" width="40" height="40"/>
   </a>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </p>
