@@ -10,4 +10,7 @@
   </a>&nbsp;
     <img src="https://github.com/devinammar/devinammar/blob/59dafb35f634d88049f7872e4913954b0c65fa81/javascrip.png" alt="c" width="40" height="40"/>
   </a>&nbsp;
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>&nbsp;
 </p>
