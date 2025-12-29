@@ -30,5 +30,6 @@
 
 <h2>Quotes of the Day:</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Stark&quote=Jarvis%20clip%20that&theme=dark&bg_color=d3d3d3&author_color=ffeb95&accent_color=ffffff">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Stark&quote=Jarvis%20clip%20that&theme=dark&bg_color=333333&author_color=ffffff&accent_color=ffffff">
 </p>
+
