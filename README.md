@@ -22,6 +22,10 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devinammar&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="devinammar" style="padding-right:20px;" />
+</p>
+
 <!--  -->
 
 <h2>Stats:</h2>
