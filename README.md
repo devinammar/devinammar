@@ -1,9 +1,6 @@
 <h1>👋Hello World...</h1>
 
 <h2>Technologies & Tools:</h2>
-<p>Design & Tech Enthusiast | Software Engineer - Web Developer - UI/UX Designer</p>
-<p>#opentowork</p>
-
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
