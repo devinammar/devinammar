@@ -1,7 +1,7 @@
 <h1>👋Hello World...</h1>
 
 <div>
-  <img align="right" width="20%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="20%" src="https://github.com/devinammar/devinammar/blob/7b686efbd7248eceb6175250a5229e695f3e0491/Dioramapixel2.png">
 </div>
 
 <h2>Technologies & Tools:</h2>
