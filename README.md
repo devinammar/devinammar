@@ -26,4 +26,4 @@
 
 <h2>Stats:</h2>
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
