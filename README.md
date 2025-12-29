@@ -27,3 +27,7 @@
 <h2>Stats:</h2>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Stark&quote=Jarvis%20clip%20that&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
