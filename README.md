@@ -1,4 +1,4 @@
-<h1>👋Hello World...</h1>
+<h1 align="center">👋Hello World...</h1>
 
 <h2>Technologies & Tools:</h2>
 <p>
