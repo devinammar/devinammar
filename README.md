@@ -26,16 +26,19 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </div>
-</div>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=devinammar&label=Profile%20views&color=00bfff&style=for-the-badge&logo=star" alt="devinammar" style="padding-right:20;" />
 </p>
+</div>
 <!--  -->
 
+<div>
 <h2>Stats:</h2>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
 
 <h2>Quotes of the Day:</h2>
 <p align="center">
