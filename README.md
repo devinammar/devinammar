@@ -1,8 +1,6 @@
 <h1>👋Hello World...</h1>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
 
-<hr>
-
 <h2>Technologies & Tools:</h2>
   <img align="right" width="20%" src="https://github.com/devinammar/devinammar/blob/7b686efbd7248eceb6175250a5229e695f3e0491/Dioramapixel2.png">
   
@@ -33,8 +31,6 @@
 <br><br>
 
 <!--  -->
-
-<hr>
 
 <h2>Stats:</h2>
 
