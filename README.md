@@ -3,7 +3,9 @@
 
 <h2>Technologies & Tools:</h2>
 
-<img align="right" width="20%" src="https://github.com/devinammar/devinammar/blob/7b686efbd7248eceb6175250a5229e695f3e0491/Dioramapixel2.png" style="margin-bottom: 20px;">
+<img align="right" width="20%" src="https://github.com/devinammar/devinammar/blob/7b686efbd7248eceb6175250a5229e695f3e0491/Dioramapixel2.png">
+
+<br><br>
 
 <div>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
