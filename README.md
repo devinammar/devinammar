@@ -2,7 +2,7 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
 
 <h2>Technologies & Tools:</h2>
-  <img align="right" width="20%" src="https://github.com/devinammar/devinammar/blob/7b686efbd7248eceb6175250a5229e695f3e0491/Dioramapixel2.png">
+  <img align="right" width="20%" src="https://github.com/devinammar/devinammar/blob/2b92b10acb1a9d8898b19c1e7b26813e3ac6f68b/3274080_xyu982_flaming-skull.gif">
   
 <div align="left">  
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
