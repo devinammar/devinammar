@@ -30,8 +30,6 @@
 </p>
 <br><br>
 
-<!--  -->
-
 <h2>Stats:</h2>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -46,3 +44,15 @@
   alt="Rainbow"
   src="https://github.com/devinammar/devinammar/blob/d34a68ca8c879d3bd72da7a0b9e7f0502bd335b3/Rainbow.gif"
 />
+
+<!--  -->
+
+<!-- 
+Source: 
+• https://www.newgrounds.com/art/view/xyu982/flaming-skull
+• https://shields.io/
+• https://github.com/yoshi389111/github-profile-3d-contrib
+• https://github.com/Kiran1689/kiran1689
+• https://github.com/tthn0/tthn0
+-->
+
