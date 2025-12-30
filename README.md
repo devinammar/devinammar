@@ -44,5 +44,5 @@
 <img
   width="100%"
   alt="Rainbow"
-  src="Images/Miscellaneous/Rainbow.gif"
+  src="https://github.com/devinammar/devinammar/blob/d34a68ca8c879d3bd72da7a0b9e7f0502bd335b3/Rainbow.gif"
 />
