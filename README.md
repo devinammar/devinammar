@@ -36,7 +36,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<h2>Quotes of the Day:</h2>
+<hr>
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Stark&quote=Jarvis%20clip%20that&theme=dark&bg_color=333333&author_color=ffffff&accent_color=ffffff">
 </p>
