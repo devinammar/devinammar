@@ -5,6 +5,7 @@
   <img align="right" width="20%" src="https://github.com/devinammar/devinammar/blob/7b686efbd7248eceb6175250a5229e695f3e0491/Dioramapixel2.png">
   
   <br><br>
+  
 <div align="left">  
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
