@@ -31,7 +31,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=devinammar&label=Profile%20views&color=00bfff&style=for-the-badge&logo=star" alt="devinammar" style="padding-right:20;" />
 </p>
-
+<br><br>
 <!--  -->
 
 ## Stats:
