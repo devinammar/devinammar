@@ -1,5 +1,5 @@
 <img
-  width="250px" align="left"
+  width="230px" align="left"
   alt="Hello World"
   src="https://github.com/devinammar/devinammar/blob/de03797c36ec60fc37ae5adec291f293981eff75/Helloworld_pixelanimated.gif"
 />
