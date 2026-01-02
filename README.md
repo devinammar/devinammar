@@ -56,6 +56,7 @@
 
 <!-- 
 Source: 
+• https://www.textstudio.com/typewriter-animator
 • https://www.newgrounds.com/art/view/xyu982/flaming-skull
 • https://shields.io/
 • https://github.com/yoshi389111/github-profile-3d-contrib
