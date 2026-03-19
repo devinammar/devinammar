@@ -7,6 +7,9 @@
 <br><br>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur (bingung mau nulis apa) </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devinammar&label=Profile%20views&color=00bfff&style=for-the-badge&logo=star" alt="devinammar" style="padding-right:20;" />
+</p>
 
 <h2>Technologies & Tools:</h2>
   <img align="right" width="20%" src="https://github.com/devinammar/devinammar/blob/2b92b10acb1a9d8898b19c1e7b26813e3ac6f68b/3274080_xyu982_flaming-skull.gif">
@@ -32,9 +35,6 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=devinammar&label=Profile%20views&color=00bfff&style=for-the-badge&logo=star" alt="devinammar" style="padding-right:20;" />
-</p>
 <br><br>
 
 <h2>Stats:</h2>
