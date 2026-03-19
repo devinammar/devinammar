@@ -13,6 +13,7 @@
 
 <h2>Technologies & Tools:</h2>
   <img align="right" width="20%" src="https://github.com/devinammar/devinammar/blob/2b92b10acb1a9d8898b19c1e7b26813e3ac6f68b/3274080_xyu982_flaming-skull.gif">
+<br><br>
   
 <div align="left">  
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
