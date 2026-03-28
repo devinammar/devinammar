@@ -7,10 +7,11 @@
 <br><br>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur (bingung mau nulis apa) </p>
-- 💻 Software Developer
-- 🖼️ UI/UX Design
-- 🖌️Graphic Design
 
+- 💻 Software Developer <br>
+- 🖼️ UI/UX Design <br>
+- 🖌️Graphic Design <br>
+<br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=devinammar&label=Profile%20views&color=00bfff&style=for-the-badge&logo=star" alt="devinammar" style="padding-right:20;" />
 </p>
