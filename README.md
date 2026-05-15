@@ -50,8 +50,6 @@
     <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Stark&quote=Jarvis,%20clip%20that&theme=dark&bg_color=333333&author_color=ffffff&accent_color=ffffff">
 </p> -->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=Jarvis,%20more%20alcohol&author=Tony%20Stark)](https://github.com/piyushsuthar/github-readme-quotes)&nbsp;<img width="60%" src="https://github.com/devinammar/devinammar/blob/a9159097858ecf40c886040263253f8443640d88/ironmangif.gif">
-
 <table border="0">
   <tr>
     <td valign="middle">
