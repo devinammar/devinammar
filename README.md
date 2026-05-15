@@ -46,9 +46,9 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <hr>
-<p align="center">
+<!-- <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Stark&quote=Jarvis,%20clip%20that&theme=dark&bg_color=333333&author_color=ffffff&accent_color=ffffff">
-</p>
+</p> -->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=Jarvis,%20more%20alcohol&author=Tony%20Stark)](https://github.com/piyushsuthar/github-readme-quotes)
 
