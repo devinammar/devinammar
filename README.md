@@ -52,8 +52,8 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=Jarvis,%20more%20alcohol&author=Tony%20Stark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<img align="left" width="50%" src="https://github.com/devinammar/devinammar/blob/b8ee65bf301649ef1278758a9d94ab14492c8886/watchdogs1.png">
-<img align="right" width="50%" src="https://github.com/devinammar/devinammar/blob/414e786841fc4157490277aa06406b55aff302b4/watchdogs2.png">
+<img align="left" width="49%" src="https://github.com/devinammar/devinammar/blob/b8ee65bf301649ef1278758a9d94ab14492c8886/watchdogs1.png">
+<img align="right" width="49%" src="https://github.com/devinammar/devinammar/blob/414e786841fc4157490277aa06406b55aff302b4/watchdogs2.png">
 
 <!--
 <a href="https://blurryface.pythonanywhere.com/link">
