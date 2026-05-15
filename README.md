@@ -50,6 +50,8 @@
     <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Stark&quote=Jarvis,%20clip%20that&theme=dark&bg_color=333333&author_color=ffffff&accent_color=ffffff">
 </p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true&quote=Jarvis,%20more%20alcohol&author=Tony%20Stark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--
 <a href="https://blurryface.pythonanywhere.com/link">
   <img
