@@ -50,7 +50,7 @@
     <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Stark&quote=Jarvis,%20clip%20that&theme=dark&bg_color=333333&author_color=ffffff&accent_color=ffffff">
 </p> -->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=Jarvis,%20more%20alcohol&author=Tony%20Stark)](https://github.com/piyushsuthar/github-readme-quotes)&nbsp;<img width="49%" src="https://github.com/devinammar/devinammar/blob/a9159097858ecf40c886040263253f8443640d88/ironmangif.gif">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=Jarvis,%20more%20alcohol&author=Tony%20Stark)](https://github.com/piyushsuthar/github-readme-quotes)&nbsp;<img width="100%" src="https://github.com/devinammar/devinammar/blob/a9159097858ecf40c886040263253f8443640d88/ironmangif.gif">
 
 <img width="49%" src="https://github.com/devinammar/devinammar/blob/b8ee65bf301649ef1278758a9d94ab14492c8886/watchdogs1.png">&nbsp;<img width="49%" src="https://github.com/devinammar/devinammar/blob/414e786841fc4157490277aa06406b55aff302b4/watchdogs2.png">
 
