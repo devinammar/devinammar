@@ -63,6 +63,19 @@
   </tr>
 </table>
 
+<table border="0">
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=Jarvis,%20more%20alcohol&author=Tony%20Stark">
+      </a>
+    </td>
+    <td valign="middle">
+      <img width="100%" src="https://github.com/devinammar/devinammar/blob/67e22e13c948b570450672520187d64e70b95dec/ironmangif2.gif">
+    </td>
+  </tr>
+</table>
+
 <img width="49%" src="https://github.com/devinammar/devinammar/blob/b8ee65bf301649ef1278758a9d94ab14492c8886/watchdogs1.png">&nbsp;<img width="49%" src="https://github.com/devinammar/devinammar/blob/414e786841fc4157490277aa06406b55aff302b4/watchdogs2.png">
 
 <!--
