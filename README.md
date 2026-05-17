@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-<img width="49%" src="https://github.com/devinammar/devinammar/blob/b8ee65bf301649ef1278758a9d94ab14492c8886/watchdogs1.png">&nbsp;<img width="49%" src="https://github.com/devinammar/devinammar/blob/79bd50af9a0b9ed3afc47c6fc46e3fa34d4c1210/watchdogs3.jpg">
+<img width="49%" src="https://github.com/devinammar/devinammar/blob/b8ee65bf301649ef1278758a9d94ab14492c8886/watchdogs1.png">&nbsp;<img width="49%" src="https://github.com/devinammar/devinammar/blob/04e9905446c1312122791a60eedc5fcd675967ab/watchdogs4.jpg">
 
 <!--
 <a href="https://blurryface.pythonanywhere.com/link">
