@@ -54,7 +54,7 @@
   <tr>
     <td valign="middle">
       <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=Jarvis,%20help%20me&author=Tony%20Stark">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=Jarvis,%20wassup?&author=Tony%20Stark">
       </a>
     </td>
     <td valign="middle">
