@@ -54,7 +54,7 @@
   <tr>
     <td valign="middle">
       <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=Everything%27s%20is%20a%20copy,%20of%20a%20copy,%20of%20a%20copy&author=Tyler%20Durden">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=Everything%20is%20a%20copy,%20of%20a%20copy,%20of%20a%20copy&author=Tyler%20Durden">
       </a>
     </td>
     <td valign="middle">
