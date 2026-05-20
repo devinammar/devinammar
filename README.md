@@ -54,7 +54,7 @@
   <tr>
     <td valign="middle">
       <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=O%20Captain,%20My%20Captain!&author=Dead%20Poets%20Society%20(1989)">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=Ah%20shit,%20here%20we%20go%20again.&author=Carl%20%22CJ%22%20Johnson%20(GTA%20San%20Andreas)">
       </a>
     </td>
     <td valign="middle">
