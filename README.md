@@ -33,11 +33,11 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-git-000000?style=flat-square&logo=git&logoColor=white&labelColor=F05032" />
+  <img alt="git" src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032&color=F05032" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Sanity" src="https://img.shields.io/badge/-Sanity.io-ffffff?style=flat-square&logo=sanity&logoColor=F03E2F&labelColor=ffffff" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=0A85EA&labelColor=F24E1E" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=F24E1E&labelColor=F24E1E" />
 </div>
 <br><br>
 <br><br>
