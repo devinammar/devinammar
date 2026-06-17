@@ -35,7 +35,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Sanity" src="https://img.shields.io/badge/-Sanity.io-F03E2F?style=flat-square&logo=sanity&logoColor=white" />
+  <img alt="Sanity" src="https://img.shields.io/badge/-Sanity.io-ffffff?style=flat-square&logo=sanity&logoColor=F03E2F&labelColor=ffffff" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </div>
