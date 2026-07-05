@@ -55,7 +55,7 @@
   <tr>
     <td valign="middle">
       <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=Ah%20shit,%20here%20we%20go%20again&author=Carl%20Johnson%20(GTA%20San%20Andreas)">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=We%20have%20no%20Great%20War%2C%20No%20Great%20Depression.%20Our%20Great%20War%E2%80%99s%20is%20spiritual%20war%2C%20our%20Great%20Depression%20is%20our%20lives&author=Tyler%20Durden">
       </a>
     </td>
     <td valign="middle">
