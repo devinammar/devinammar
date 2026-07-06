@@ -58,7 +58,7 @@
   <tr>
     <td valign="middle">
       <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=You%20wanna%20make%20an%20omelet,%20you%20gotta%20break%20some%20eggs&author=Tyler%20Durden">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true&quote=It's%20not%20who%20I%20am%20underneath,%20but%20what%20I%20do%20that%20defines%20me&author=Batman%20(Batman%20Begins%202005)">
       </a>
     </td>
     <td valign="middle">
