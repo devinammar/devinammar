@@ -36,7 +36,10 @@
   <img alt="git" src="https://img.shields.io/badge/git-3E2C00?style=flat-square&logo=git&logoColor=white&labelColor=F05032&color=F05032" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Sanity" src="https://img.shields.io/badge/-Sanity.io-ffffff?style=flat-square&logo=sanity&logoColor=F03E2F&labelColor=ffffff" />
+  <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=000000&labelColor=ffffff" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Railway" src="https://img.shields.io/badge/-Railway-131415?style=flat-square&logo=railway&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </div>
 <br><br>
