@@ -28,6 +28,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-8CC84B?style=flat-square&logo=node.js&logoColor=333333" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="JWT" src="https://img.shields.io/badge/-JWT-ffffff?style=flat-square&logo=json-web-tokens&logoColor=000000&labelColor=ffffff" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=1FBCD8" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -36,7 +37,6 @@
   <img alt="git" src="https://img.shields.io/badge/git-3E2C00?style=flat-square&logo=git&logoColor=white&labelColor=F05032&color=F05032" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Sanity" src="https://img.shields.io/badge/-Sanity.io-ffffff?style=flat-square&logo=sanity&logoColor=F03E2F&labelColor=ffffff" />
-  <img alt="JWT" src="https://img.shields.io/badge/-JWT-ffffff?style=flat-square&logo=json-web-tokens&logoColor=000000&labelColor=ffffff" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Railway" src="https://img.shields.io/badge/-Railway-512BD4?style=flat-square&logo=railway&logoColor=white" />
